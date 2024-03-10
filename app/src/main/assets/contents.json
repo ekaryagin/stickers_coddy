@@ -1,0 +1,436 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "CoddySchoolSecondGeneration",
+      "name": "CoddySchool",
+      "publisher": "CoddySchool",
+      "tray_image_file": "coddy.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://coddyschool.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.png",
+          "emojis": [
+            "💡",
+            "❗",
+            "🧐"
+          ]
+        },
+        {
+          "image_file": "2.png",
+          "emojis": [
+            "💻",
+            "👍",
+            "🧘"
+          ]
+        },
+        {
+          "image_file": "3.png",
+          "emojis": [
+            "💖",
+            "🔖",
+            "🏷️"
+          ]
+        },
+        {
+          "image_file": "4.png",
+          "emojis": [
+            "🔖",
+            "😡",
+            "⚠️"
+          ]
+        },
+        {
+          "image_file": "5.png",
+          "emojis": [
+            "🔖",
+            "👏",
+            "😄"
+          ]
+        },
+        {
+          "image_file": "6.png",
+          "emojis": [
+            "🔖",
+            "⚪",
+            "🎓"
+          ]
+        },
+        {
+          "image_file": "7.png",
+          "emojis": [
+            "💻",
+            "👍",
+            "🧠"
+          ]
+        },
+        {
+          "image_file": "8.png",
+          "emojis": [
+            "❌",
+            "🏃",
+            "🧐"
+          ]
+        },
+        {
+          "image_file": "9.png",
+          "emojis": [
+            "🔵",
+            "🎓",
+            "💡"
+          ]
+        },
+        {
+          "image_file": "10.png",
+          "emojis": [
+            "🐸",
+            "😔",
+            "⚠️"
+          ]
+        },
+        {
+          "image_file": "11.png",
+          "emojis": [
+            "✅",
+            "🔧",
+            "💡"
+          ]
+        },
+        {
+          "image_file": "12.png",
+          "emojis": [
+            "🔖",
+            "😂",
+            "👍"
+          ]
+        },
+        {
+          "image_file": "13.png",
+          "emojis": [
+            "😳",
+            "🙈"
+          ]
+        },
+        {
+          "image_file": "14.png",
+          "emojis": [
+            "😱",
+            "🏃",
+            "⚠️"
+          ]
+        },
+        {
+          "image_file": "15.png",
+          "emojis": [
+            "🦖",
+            "😉",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "16.png",
+          "emojis": [
+            "🚀",
+            "😴",
+            "💭"
+          ]
+        },
+        {
+          "image_file": "17.png",
+          "emojis": [
+            "💻",
+            "👤",
+            "⚔️"
+          ]
+        },
+        {
+          "image_file": "18.png",
+          "emojis": [
+            "🐶",
+            "🙏",
+            "😇"
+          ]
+        },
+        {
+          "image_file": "19.png",
+          "emojis": [
+            "💡",
+            "😄",
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "20.png",
+          "emojis": [
+            "🌞",
+            "😴",
+            "☕"
+          ]
+        },
+        {
+          "image_file": "21.png",
+          "emojis": [
+            "🐶",
+            "😎",
+            "🛹"
+          ]
+        },
+        {
+          "image_file": "22.png",
+          "emojis": [
+            "🦄",
+            "😍",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "23.png",
+          "emojis": [
+            "💻",
+            "🔓",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "24.png",
+          "emojis": [
+            "⚡",
+            "😃",
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "25.png",
+          "emojis": [
+            "👫",
+            "👷‍♂️",
+            "👷‍♀️"
+          ]
+        },
+        {
+          "image_file": "26.png",
+          "emojis": [
+            "🐶",
+            "😄",
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "27.png",
+          "emojis": [
+            "💻",
+            "👍",
+            "🌟"
+          ]
+        },
+        {
+          "image_file": "28.png",
+          "emojis": [
+            "😌",
+            "✌️",
+            "🍵"
+          ]
+        },
+        {
+          "image_file": "29.png",
+          "emojis": [
+            "😌",
+            "✌️",
+            "🍵"
+          ]
+        },
+        {
+          "image_file": "30.png",
+          "emojis": [
+            "😌",
+            "✌️",
+            "🍵"
+          ]
+        },
+        {
+          "image_file": "31.png",
+          "emojis": [
+            "🐶",
+            "👋",
+            "😃"
+          ]
+        },
+        {
+          "image_file": "32.png",
+          "emojis": [
+            "🐶",
+            "😢",
+            "💔"
+          ]
+        },
+        {
+          "image_file": "33.png",
+          "emojis": [
+            "🦖",
+            "💕",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "34.png",
+          "emojis": [
+            "🟣",
+            "🐾",
+            "🆒"
+          ]
+        },
+        {
+          "image_file": "35.png",
+          "emojis": [
+            "👥",
+            "❤️",
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "36.png",
+          "emojis": [
+            "🔵",
+            "🎓",
+            "💡"
+          ]
+        },
+        {
+          "image_file": "37.png",
+          "emojis": [
+            "🦖",
+            "😏",
+            "👊"
+          ]
+        },
+        {
+          "image_file": "38.png",
+          "emojis": [
+            "👤",
+            "😄",
+            "🎮"
+          ]
+        },
+        {
+          "image_file": "39.png",
+          "emojis": [
+            "🛹",
+            "😎",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "40.png",
+          "emojis": [
+            "🏴‍☠️",
+            "😏",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "41.png",
+          "emojis": [
+            "🔵",
+            "⚔️",
+            "🆒"
+          ]
+        },
+        {
+          "image_file": "42.png",
+          "emojis": [
+            "😠",
+            "🔥",
+            "💪"
+          ]
+        },
+        {
+          "image_file": "43.png",
+          "emojis": [
+            "💻",
+            "🐍",
+            "👨‍💻"
+          ]
+        },
+        {
+          "image_file": "44.png",
+          "emojis": [
+            "💻",
+            "🧙‍♂️",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "45.png",
+          "emojis": [
+            "🐱",
+            "❓",
+            "😕"
+          ]
+        },
+        {
+          "image_file": "46.png",
+          "emojis": [
+            "🐱",
+            "😊",
+            "👏"
+          ]
+        },
+        {
+          "image_file": "47.png",
+          "emojis": [
+            "🐛",
+            "🆕",
+            "🆒"
+          ]
+        },
+        {
+          "image_file": "48.png",
+          "emojis": [
+            "🐱",
+            "👋",
+            "😔"
+          ]
+        },
+        {
+          "image_file": "49.png",
+          "emojis": [
+            "🐱",
+            "😢",
+            "💔"
+          ]
+        },
+        {
+          "image_file": "50.png",
+          "emojis": [
+            "🔵",
+            "🐾",
+            "🆒"
+          ]
+        },
+        {
+          "image_file": "51.png",
+          "emojis": [
+            "👹",
+            "🆕",
+            "🆒"
+          ]
+        },
+        {
+          "image_file": "52.png",
+          "emojis": [
+            "🐱",
+            "😄",
+            "🎉"
+          ]
+        }
+      ]
+    }
+
+  ]
+}
